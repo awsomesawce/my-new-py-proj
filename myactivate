@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# My venv script
+# Dotsource this script
+
+export my_current_venv=/home/carlc/.local/share/virtualenvs/my-new-py-proj-FShI31AC/
+. $my_current_venv/bin/activate

@@ -1,9 +1,7 @@
 # my-new-py-proj
-Testing initiation of git repo using pipenv as main installer.
 
-## Using
+Testing **JupyterLab** atm.
 
-- pipenv
-- no requirements.txt
-- Pipfile
+It seems quite promising.  The interface is comparable to an IDE like Visual Studio Code!
 
+It even has a _Command Palette_!...
